@@ -1,0 +1,11 @@
+.primaryIndicator {
+    padding: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: rgb(55, 198, 110);
+    font-size: small;
+    font-style: italic;
+    color: white;
+    width:min-content;
+    border-radius: 8px;
+}

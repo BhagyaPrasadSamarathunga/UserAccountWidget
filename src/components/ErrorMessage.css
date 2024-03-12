@@ -1,0 +1,8 @@
+.errorMessagecontainer {
+    padding: 5px;
+}
+
+.errorMessage {
+    font-style: italic;
+    color: crimson;
+}

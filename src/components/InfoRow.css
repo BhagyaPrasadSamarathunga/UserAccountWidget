@@ -1,0 +1,9 @@
+.rowContainer {
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+}
+
+.title {
+    padding-right: 6px;
+}
